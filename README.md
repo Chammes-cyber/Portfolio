@@ -21,20 +21,19 @@ Hi! I'm Colin, a passionate SOC Technician. Here you can find my work, resume, a
 
 ## Python Projects
 
-This section will showcase my Python scripts and projects.  
-Stay tuned as I add my top 10 `.py` files soon!
+This section showcases my Python scripts and projects.  
 
 | File              | Description                  |
 |-------------------|-----------------------------|
-| `script1.py`      | _Coming soon_               |
-| `script2.py`      | _Coming soon_               |
-| `script3.py`      | _Coming soon_               |
-| `script4.py`      | _Coming soon_               |
-| `script5.py`      | _Coming soon_               |
-| `script6.py`      | _Coming soon_               |
-| `script7.py`      | _Coming soon_               |
-| `script8.py`      | _Coming soon_               |
-| `script9.py`      | _Coming soon_               |
+| `ceaser_cypher.py`     | Uses the ceaser cypher to encrypt traffic |
+| `log_file_analysis.py`      | Searches log files for specific criteria |
+| `pw_generator.py`      | Generates a password based on a list of perameters |
+| `pw_manager.py`      | Creates user profiles based off user input |
+| `net_scanner.py`      | Scans all local networks and retuns basic network info |
+| `nmap_port_scanner.py`      | Uses nmap to scan for open ports on a network |
+| `syn_flood_script.py`      | Generates a syn flood attack on a network |
+| `whois_script.py`      | Lists detailed network info of current connected network|
+| `wifi_scanner.py`      | Scans for all available wifi networks in close proximity |
 | `script10.py`     | _Coming soon_               |
 
 ---
