@@ -26,7 +26,7 @@ Stay tuned as I add my top 10 `.py` files soon!
 
 | File              | Description                  |
 |-------------------|-----------------------------|
-| `script1.py`      | _Coming soon_               |
+| `ceaser_cypher.py`      | Uses the ceaser cypher to encrypt traffic |
 | `script2.py`      | _Coming soon_               |
 | `script3.py`      | _Coming soon_               |
 | `script4.py`      | _Coming soon_               |
