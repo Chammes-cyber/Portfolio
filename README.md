@@ -34,7 +34,7 @@ This section showcases my Python scripts and projects.
 | `syn_flood_script.py`      | Generates a syn flood attack on a network |
 | `whois_script.py`      | Lists detailed network info of current connected network|
 | `wifi_scanner.py`      | Scans for all available wifi networks in close proximity |
-| `script10.py`     | _Coming soon_               |
+| `email_notification_service_down.py`     | Uses constant pings to verify that your network is functioning normally and will send out an email if unreachable using a .txt file with email address stored in it (uses outlook 365 but can be adpted to other email providers) |
 
 ---
 
