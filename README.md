@@ -6,16 +6,16 @@ Welcome to my portfolio landing page!
 
 ## About Me
 
-Hi! I'm Colin, a passionate SOC Technician. Here you can find my work, resume, and ways to connect.
+Hi! I'm Colin, a passionate programmer and security advocate. Here you can find my work, resume, and ways to connect!
 
 ---
 
 ## Skills
 
-- **Linux Command-Line**
+- **Python**
 - **Network Configuration**
 - **PowerShell**
-- **Python**
+- **Linux Command-line**
 
 ---
 
