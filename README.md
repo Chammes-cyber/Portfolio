@@ -21,11 +21,11 @@ Hi! I'm Colin, a passionate programmer and security advocate. Here you can find 
 
 ## Python Projects
 
-This section showcases my Python scripts and projects.  
+This section showcases my Python Top 10 scripts and projects.  
 
 | File              | Description                  |
 |-------------------|-----------------------------|
-| `ceaser_cypher.py`     | Uses the ceaser cypher to encrypt traffic |
+| `ssl_monitor.py`     | Used for monitoring SSL Certificates by calling the SSLLabs API |
 | `log_file_analysis.py`      | Searches log files for specific criteria |
 | `pw_generator.py`      | Generates a password based on a list of perameters |
 | `pw_manager.py`      | Creates user profiles based off user input |
