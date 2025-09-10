@@ -1,48 +1,49 @@
-# Chammes Cyber
+# 👋 Welcome to **Chammes Cyber**
 
-Welcome to my portfolio landing page!
-
----
-
-## About Me
-
-Hi! I'm Colin, a passionate programmer and security advocate. Here you can find my work, resume, and ways to connect!
+Hi, I'm **Colin** — a passionate programmer and cybersecurity advocate.  
+This is my portfolio landing page where you’ll find my work, projects, and ways to connect 🚀
 
 ---
 
-## Skills
-
-- **Python**
-- **Network Configuration**
-- **PowerShell**
-- **Linux Command-line**
+## 🧑‍💻 About Me
+- 💻 Security-focused developer with a love for Python & Linux  
+- 🔐 Advocate for secure systems and efficient automation  
+- 🌱 Always learning and building cool things in cybersecurity & IT  
 
 ---
 
-## Python Projects
-
-This section showcases my Python Top 10 scripts and projects.  
-
-| File              | Description                  |
-|-------------------|-----------------------------|
-| `ssl_monitor.py`     | Used for monitoring SSL Certificates by calling the SSLLabs API |
-| `log_file_analysis.py`      | Searches log files for specific criteria |
-| `pw_generator.py`      | Generates a password based on a list of perameters |
-| `pw_manager.py`      | Creates user profiles based off user input |
-| `net_scanner.py`      | Scans all local networks and retuns basic network info |
-| `nmap_port_scanner.py`      | Uses nmap to scan for open ports on a network |
-| `syn_flood_script.py`      | Generates a syn flood attack on a network |
-| `whois_script.py`      | Lists detailed network info of current connected network|
-| `wifi_scanner.py`      | Scans for all available wifi networks in close proximity |
-| `email_notification_service_down.py`     | Uses constant pings to verify that your network is functioning normally and will send out an email if unreachable using a .txt file with email address stored in it (uses outlook 365 but can be adpted to other email providers) |
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0078D4?logo=cisco&logoColor=white)
 
 ---
 
-### Links
+## 🐍 Python Projects
 
-- [LinkedIn](https://www.linkedin.com/in/colin-hammes/)
-- [Resume (PDF)](resume.pdf)
+Here are my top **Python security & automation scripts**:
+
+| 📂 File | 📝 Description |
+|---------|----------------|
+| `ssl_monitor.py` | Monitors SSL Certificates using the SSLLabs API |
+| `log_file_analysis.py` | Searches log files for specific criteria |
+| `pw_generator.py` | Generates secure passwords from parameters |
+| `pw_manager.py` | Creates user profiles based on input |
+| `net_scanner.py` | Scans local networks and returns basic info |
+| `nmap_port_scanner.py` | Uses nmap to find open ports |
+| `syn_flood_script.py` | Demonstrates a SYN flood attack |
+| `whois_script.py` | Provides detailed network info |
+| `wifi_scanner.py` | Detects nearby WiFi networks |
+| `email_notification_service_down.py` | Monitors uptime with email alerts (Outlook 365 support) |
 
 ---
 
-&copy; 2025 Chammes Cyber
+## 🔗 Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/colin-hammes/)  
+- 📄 [Resume (PDF)](resume.pdf)  
+
+---
+
+✨ *Thanks for stopping by!*  
+&copy; 2025 **Chammes Cyber**
