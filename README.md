@@ -1,7 +1,7 @@
 # 👋 Welcome to **Chammes Cyber**
 
-Hi, I'm **Colin** — a passionate programmer and cybersecurity advocate.  
-This is my portfolio landing page where you’ll find my work, projects, and ways to connect 🚀
+Hi, I'm **Colin**, a passionate programmer and cybersecurity advocate.  
+This is my portfolio landing page where you’ll find my work, projects, and ways to connect 
 
 ---
 
